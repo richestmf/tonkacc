@@ -1,0 +1,15 @@
+{
+	"Token": "",
+	"Prefix": ".",
+
+	"Channel-Names": ["net was here"], 
+	"Server-Names": ["beamed by hunnid"],
+	"Role-Names": ["@netbeamedu"],
+	"Reason": ["tracked down", "net fucked u"],
+
+	"Spam": true,
+
+	"Webhook-Names": ["@hunted by hunnid", "get back pussy"],
+	"Spam-Messages": ["@everyone https://discord.gg/J34aBrhYE7", "@everyone shit on by hunnid bitch https://discord.gg/J34aBrhYE7"],
+	"Spam-Amount": 10000
+}
